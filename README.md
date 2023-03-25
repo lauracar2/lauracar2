@@ -35,7 +35,7 @@ Bem vindo ao meu perfil GitHub
     
     
     
-    https://github.com/lauracar2/lauracar2/blob/main/.github/fluxos%20de%20trabalho/blank.yml
+   
  
 
 <h2>  Ferramentas que uso😁   </h2> 
@@ -49,7 +49,7 @@ Bem vindo ao meu perfil GitHub
   <a href="https://github.com/lauracar2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauracar2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
       
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauracar2&layout=compact&langs_count=7&theme=midnight-pink"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauracar2&layout=compact&langs_count=7&theme=midnight-ght"/>
 </div>
     
 
