@@ -32,6 +32,10 @@ Bem vindo ao meu perfil GitHub
 ## Contatos: 
  
  <a href = "mailto:laura0719carvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-5C2D91?style=for-the-badge&logo=gmail&logoColor=white" target="_white"></a>
+    
+    
+    
+    https://github.com/lauracar2/lauracar2/blob/main/.github/fluxos%20de%20trabalho/blank.yml
  
 
 <h2>  Ferramentas que uso😁   </h2> 
@@ -52,3 +56,6 @@ Bem vindo ao meu perfil GitHub
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483d8b&height=120&section=footer"/>
 
         
+      
+     !(snake_eif)(https://github.com/lauracar2/lauracar2/blob/outpot/github=contributin=grid=snake.svg)
+      
