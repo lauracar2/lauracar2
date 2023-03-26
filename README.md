@@ -1,10 +1,6 @@
-### oiii ╰(*°▽°*)╯
 
-- 🙂 Estudante de ADS
-- 🤫 Estudando java e python
 - 😁 Tenho 18 anos de idade
-- 📫 Meu email-laura0719carvalho@gmail.com
-- 😄 Meu insta lauracarvalho28__
+- 😄 Meu insta: lauracarvalho28__
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483d8b&height=120&section=header"/>
 
@@ -49,7 +45,7 @@ Bem vindo ao meu perfil GitHub
   <a href="https://github.com/lauracar2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauracar2&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
       
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauracar2&layout=compact&langs_count=7&thema=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauracar2&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
     
 
