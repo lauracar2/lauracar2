@@ -24,7 +24,10 @@ Bem vindo ao meu perfil GitHub
   <img src="https://img.shields.io/badge/HTML5-5C2D91?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-5C2D91?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-5C2D91?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sql-5C2D91?style=for-the-badge&logo=python&logoColor=white"/>
  
+    
+    
 ## Contatos: 
  
  <a href = "mailto:laura0719carvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-5C2D91?style=for-the-badge&logo=gmail&logoColor=white" target="_white"></a>
