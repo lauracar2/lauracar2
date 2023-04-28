@@ -31,7 +31,7 @@ Bem vindo ao meu perfil GitHub
  
  <a href = "mailto:laura0719carvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-5C2D91?style=for-the-badge&logo=gmail&logoColor=white" target="_white">
      <a href = "https://www.instagram.com/lauracarvalho28__/"><img src="https://img.shields.io/badge/instagram-5C2D91?style=for-the-badge&logo=instagram&logoColor=white" target="_white">
-          <a href = "83988443626"><img src="https://img.shields.io/badge/whatsapp-5C2D91?style=for-the-badge&logo=whatsapp&logoColor=white" target="_white">
+          <a href = "https://web.whatsapp.com/"><img src="https://img.shields.io/badge/whatsapp-5C2D91?style=for-the-badge&logo=whatsapp&logoColor=white" target="_white">
  </a>
     
     
