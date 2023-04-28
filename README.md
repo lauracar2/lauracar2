@@ -1,6 +1,5 @@
 
-- 😁 Tenho 18 anos de idade
-- 😄 Meu insta: lauracarvalho28__
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483d8b&height=120&section=header"/>
 
@@ -30,7 +29,9 @@ Bem vindo ao meu perfil GitHub
     
 ## Contatos: 
  
- <a href = "mailto:laura0719carvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-5C2D91?style=for-the-badge&logo=gmail&logoColor=white" target="_white"></a>
+ <a href = "mailto:laura0719carvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-5C2D91?style=for-the-badge&logo=gmail&logoColor=white" target="_white">
+     <a href = "https://www.instagram.com/lauracarvalho28__/"><img src="https://img.shields.io/badge/instagram-5C2D91?style=for-the-badge&logo=instagram&logoColor=white" target="_white">
+ </a>
     
     
     
