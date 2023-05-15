@@ -31,7 +31,8 @@ Bem vindo ao meu perfil GitHub
  
  <a href = "mailto:laura0719carvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-5C2D91?style=for-the-badge&logo=gmail&logoColor=white" target="_white">
      <a href = "https://www.instagram.com/lauracarvalho28__/"><img src="https://img.shields.io/badge/instagram-5C2D91?style=for-the-badge&logo=instagram&logoColor=white" target="_white">
-
+  <a href = "https://www.linkedin.com/in/laura-carvalho-a82750276/"><img src="https://img.shields.io/badge/linkedin-5C2D91?style=for-the-badge&logo=instagram&logoColor=white" target="_white">
+         
  </a>
     
     
