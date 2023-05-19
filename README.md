@@ -53,7 +53,11 @@ Bem vindo ao meu perfil GitHub
       
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauracar2&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
- 
+ <div align="center">
+<br><p align="center"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lauracar2}/count.svg" /></p> 
+<br>
+</div>
       
   
       
