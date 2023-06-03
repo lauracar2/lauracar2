@@ -45,7 +45,7 @@ Bem vindo ao meu perfil GitHub
 <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src = "https://img.shields.io/badge/Eclipse-5C2D91?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src = "https://img.shields.io/badge/Xampp-5C2D91?style=for-the-badge&logo=eclipse&logoColor=white">
-
+<img src = "https://img.shields.io/badge/HeidiSQL-5C2D91?style=for-the-badge&logo=eclipse&logoColor=white">
 
 <div>
  <a href="https://github.com/lauracar2">
