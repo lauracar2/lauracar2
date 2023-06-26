@@ -16,15 +16,23 @@ Bem vindo ao meu perfil GitHub
 - Em andamento: ADS (FPB)
 
 <div>
+
+## Skills:
+
+ <img src="https://img.shields.io/badge/python-5C2D91?style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML5-5C2D91?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-5C2D91?style=for-the-badge&logo=css&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PHP-5C2D91?style=for-the-badge&logo=php&logoColor=white"/>
+ <img src="https://img.shields.io/badge/mysql-5C2D91?style=for-the-badge&logo=mysql&logoColor=white"/>
  
  ## Estudando:
   
-  <img src="https://img.shields.io/badge/Java-5C2D91?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-5C2D91?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-5C2D91?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php-5C2D91?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sql-5C2D91?style=for-the-badge&logo=python&logoColor=white"/>
- 
+  <img src="https://img.shields.io/badge/Java-5C2D91?style=for-the-badge&logo=JAVA&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JAVASCRIPT-5C2D91?style=for-the-badge&logo=javascript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/REACT-5C2D91?style=for-the-badge&logo=react&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ARDUINO-5C2D91?style=for-the-badge&logo=arduino&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TYPE.JS-5C2D91?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NODE.JS-5C2D91?style=for-the-badge&logo=node.js&logoColor=white"/>
     
     
 ## Contatos: 
@@ -44,8 +52,8 @@ Bem vindo ao meu perfil GitHub
 
 <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <img src = "https://img.shields.io/badge/Eclipse-5C2D91?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src = "https://img.shields.io/badge/Xampp-5C2D91?style=for-the-badge&logo=eclipse&logoColor=white">
-<img src = "https://img.shields.io/badge/HeidiSQL-5C2D91?style=for-the-badge&logo=eclipse&logoColor=white">
+<img src = "https://img.shields.io/badge/Xampp-5C2D91?style=for-the-badge&logo=xampp&logoColor=white">
+<img src = "https://img.shields.io/badge/HeidiSQL-5C2D91?style=for-the-badge&logo=HeidiSQL&logoColor=white">
 
 <div>
  <a href="https://github.com/lauracar2">
