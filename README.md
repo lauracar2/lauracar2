@@ -67,7 +67,7 @@ Bem vindo ao meu perfil GitHub
 <br>
 </div>
 
-
+ ![snake gif](https://github.com/lauracar2/lauracar2/blob/output/github-contribution-grid-snake.svg)
 
      
   
