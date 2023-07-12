@@ -67,7 +67,7 @@ Bem vindo ao meu perfil GitHub
 <br>
 </div>
 
- [![Jogo de Cobra](https://lauracar2.github.io/dist/github-contribution-grid-snake.svg)](https://lauracar2.github.io/dist/github-contribution-grid-snake.svg)
+[![Jogo de Cobra](https://lauracar2.github.io/github-contribution-grid-snake/dist/github-contribution-grid-snake.svg)](https://lauracar2.github.io/github-contribution-grid-snake/dist/github-contribution-grid-snake.svg)
 
      
   
