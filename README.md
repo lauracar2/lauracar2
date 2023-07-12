@@ -66,7 +66,9 @@ Bem vindo ao meu perfil GitHub
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lauracar2}/count.svg" /></p> 
 <br>
 </div>
-      
+
+ [![snake eif](https://github.com/lauracar2/lauracar2/blob/output/github-contribution-grid-snake.svg)
+     
   
       
       
