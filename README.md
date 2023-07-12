@@ -67,7 +67,8 @@ Bem vindo ao meu perfil GitHub
 <br>
 </div>
 
- [![snake eif](https://github.com/lauracar2/lauracar2/blob/output/github-contribution-grid-snake.svg)
+ [![Jogo de Cobra](https://lauracar2.github.io/dist/github-contribution-grid-snake.svg)](https://lauracar2.github.io/dist/github-contribution-grid-snake.svg)
+
      
   
       
